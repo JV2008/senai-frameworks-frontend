@@ -132,8 +132,3 @@ A avaliação da disciplina seguirá a distribuição estabelecida para as unida
 
 ---
 
-# ⚠️ Observações
-
-Os conteúdos disponibilizados neste repositório possuem finalidade exclusivamente educacional e acompanham o desenvolvimento da disciplina.
-
-Os materiais poderão ser atualizados ao longo do semestre conforme o planejamento didático, os objetivos de aprendizagem e as referências bibliográficas adotadas.
