@@ -1,0 +1,137 @@
+/* ==========================================================
+   FLEXBOX PADRONIZADO REUTILIZÁVEL - SISTEMA CENTRAL
+   Todos os layouts de telas, cabeçalhos, cartões e seções
+   utilizam estas classes e os componentes correspondentes.
+   ========================================================== */
+
+/* Direção */
+.app-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.app-flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Alinhamento no Eixo Principal (Justify) */
+.app-justify-start {
+  justify-content: flex-start;
+}
+
+.app-justify-center {
+  justify-content: center;
+}
+
+.app-justify-end {
+  justify-content: flex-end;
+}
+
+.app-justify-between {
+  justify-content: space-between;
+}
+
+.app-justify-around {
+  justify-content: space-around;
+}
+
+.app-justify-evenly {
+  justify-content: space-evenly;
+}
+
+/* Alinhamento no Eixo Cruzado (Align Items) */
+.app-align-start {
+  align-items: flex-start;
+}
+
+.app-align-center {
+  align-items: center;
+}
+
+.app-align-end {
+  align-items: flex-end;
+}
+
+.app-align-stretch {
+  align-items: stretch;
+}
+
+.app-align-baseline {
+  align-items: baseline;
+}
+
+/* Quebra de Linha (Wrap) */
+.app-flex-wrap {
+  flex-wrap: wrap;
+}
+
+.app-flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+/* Espaçamentos Padronizados (Gap) */
+.app-gap-xs {
+  gap: 6px;
+}
+
+.app-gap-sm {
+  gap: 12px;
+}
+
+.app-gap-md {
+  gap: 18px;
+}
+
+.app-gap-lg {
+  gap: 24px;
+}
+
+.app-gap-xl {
+  gap: 32px;
+}
+
+.app-gap-none {
+  gap: 0;
+}
+
+/* Utilitários de Itens Flex */
+.app-flex-1 {
+  flex: 1 1 0%;
+}
+
+.app-flex-auto {
+  flex: 1 1 auto;
+}
+
+.app-flex-initial {
+  flex: 0 1 auto;
+}
+
+.app-flex-none {
+  flex: none;
+}
+
+.app-flex-grow {
+  flex-grow: 1;
+}
+
+.app-flex-shrink-0 {
+  flex-shrink: 0;
+}
+
+.app-self-center {
+  align-self: center;
+}
+
+.app-self-start {
+  align-self: flex-start;
+}
+
+.app-self-end {
+  align-self: flex-end;
+}
+
+.app-full-width {
+  width: 100%;
+}
