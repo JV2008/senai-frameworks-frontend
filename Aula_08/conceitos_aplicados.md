@@ -2,7 +2,7 @@
 ## ⚛️ React Mastery Lab — SENAI Frameworks Front-end (Aula 08)
 
 > **Docente:** Prof. Me. Deivison S. Takatu  
-> **Desenvolvedor:** João Vitor  
+> **Desenvolvedor:** João Victor  
 > **Localização da Aplicação:** `c:\Users\joaov\Desktop\FRONTEND\senai-frameworks-frontend\Aula_08\projeto-react-joao`  
 > **Arquivo:** `conteitos_aplicados.md`  
 > **Objetivo:** Detalhamento exaustivo e didático de cada funcionalidade da aplicação, associando cada recurso interativo ao seu respectivo conceito da biblioteca React.
